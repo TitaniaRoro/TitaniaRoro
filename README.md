@@ -17,7 +17,7 @@ A beginner with big dreams — learning in public, building in colour, and growi
 🎯 2027 quest: build & ship my first portfolio website ✏️ EDIT
 ⚡ Fun fact: Titania is the Fairy Queen — so expect a little magic in everything I make
 📫 Reach me: ✏️ EDIT — your email
-</td> <td width="38%" valign="top" align="center"><img src="./assets/banner-art.png" alt="Titania, Fairy Queen of Code" width="100%"/>
+</td> <td width="38%" valign="top" align="center"><img src="./assets/banner-art-small.jpg" alt="Titania, Fairy Queen of Code" width="100%"/>
 ✦ Titania, Fairy Queen of Code ✦
 
 </td> </tr> </table><details> <summary>🗺️ <b>Open my Quest Map — what I'm focused on right now</b></summary><br/>
